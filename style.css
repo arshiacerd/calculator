@@ -1,0 +1,41 @@
+
+body{
+
+    background-image: url("images(1).jfif");
+    
+}
+.main{
+    background-image: url("download.jfif");
+margin-top: 80px;
+    border: 2px solid black;
+    height:300px;
+    width:250px;
+    background-color: cadetblue;
+
+}
+
+.main>.screen>input{
+
+background-color: white;
+border: 2px solid black;
+margin-top: 10px;
+width:220px;
+height: 40px;
+
+
+}
+td{
+
+    padding: 10px;
+    
+}
+button{
+
+    background-color: white;
+    color: black;
+    text-align: center;
+    cursor: pointer;
+}
+button:hover{
+    background-color: crimson;
+}
